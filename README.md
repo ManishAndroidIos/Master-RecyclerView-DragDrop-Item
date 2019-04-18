@@ -1,5 +1,5 @@
 # Master-RecyclerView-DragDrop-Item
 
 
-<img src="dragdrop.gif" width="200" height="200" />
+<img src="dragdrop.gif" width="300" height="300" />
 
